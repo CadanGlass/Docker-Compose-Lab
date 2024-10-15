@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Cadan\\Desktop\\Docker Compose Lab\\StudentsMinimalApi\\wwwroot\\students.csv",
+      "PackagePath": "staticwebassets\\students.csv"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StudentsMinimalApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StudentsMinimalApi.props",
+      "PackagePath": "build\\StudentsMinimalApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StudentsMinimalApi.props",
+      "PackagePath": "buildMultiTargeting\\StudentsMinimalApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StudentsMinimalApi.props",
+      "PackagePath": "buildTransitive\\StudentsMinimalApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

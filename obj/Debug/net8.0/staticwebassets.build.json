@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "p8wWGoJRQ8C6MovE6bm/XYkC+Wfp3XSwOP7tsb61yf4=",
+  "Source": "StudentsMinimalApi",
+  "BasePath": "_content/StudentsMinimalApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudentsMinimalApi\\wwwroot",
+      "Source": "StudentsMinimalApi",
+      "ContentRoot": "C:\\Users\\Cadan\\Desktop\\Docker Compose Lab\\StudentsMinimalApi\\wwwroot\\",
+      "BasePath": "_content/StudentsMinimalApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Cadan\\Desktop\\Docker Compose Lab\\StudentsMinimalApi\\wwwroot\\students.csv",
+      "SourceId": "StudentsMinimalApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Cadan\\Desktop\\Docker Compose Lab\\StudentsMinimalApi\\wwwroot\\",
+      "BasePath": "_content/StudentsMinimalApi",
+      "RelativePath": "students.csv",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\students.csv"
+    }
+  ]
+}
